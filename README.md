@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently working in learning things looking for collaborate in Web Developement and Data Analyst  currently i am learning DSA
+Currently working in learning things
+looking for collaborate in Web Developement and Data Analyst 
+currently i am learning DSA
 
 
 ## 🌐 Socials:
